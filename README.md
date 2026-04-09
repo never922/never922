@@ -1,4 +1,4 @@
-![Golden Retriever Programming](https://github.com/never922/never922/blob/d9aa31de58306396dff279302cc90aa44d9719e6/Dog%20programmer%20at%20work.png)
+![Golden Retriever Programming]()
 
 I am an experienced **Senior Software Engineer**, specializing in **C++**, **C#**, **Qt**, **java** and **javascript** development. I build high-performance, cross-platform desktop applications, as well as robust backend services and full-stack solutions.
 
