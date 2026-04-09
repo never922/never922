@@ -1,5 +1,5 @@
 I am an experienced **Senior Software Engineer**, specializing in **C++**, **C#**, **Qt**, **java** and **javascript** development. I build high-performance, cross-platform desktop applications, as well as robust backend services and full-stack solutions.
-
+![Golden Retriever Programming](./my dog.png)
 My technical expertise includes proficiency in **C++**, **C#**, **Qt**, and **multi-threaded applications**. I am well-versed in creating scalable, efficient, and optimized solutions for both desktop and web environments.
 
 ### Key Skills:
