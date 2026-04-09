@@ -1,16 +1,25 @@
-## Hi there 👋
+I am an experienced **Senior Software Engineer**, specializing in **C++**, **C#**, **Qt**, **java** and **javascript** development. I build high-performance, cross-platform desktop applications, as well as robust backend services and full-stack solutions.
 
-<!--
-**never922/never922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My technical expertise includes proficiency in **C++**, **C#**, **Qt**, and **multi-threaded applications**. I am well-versed in creating scalable, efficient, and optimized solutions for both desktop and web environments.
 
-Here are some ideas to get you started:
+### Key Skills:
+- **Frontend Development**: Qt Quick, QML (UI/UX), React, TypeScript, JavaScript
+- **Backend Development**: C++, C#, Node.js, Python, FastAPI, Django
+- **Desktop Development**: Qt, C++, Multithreading, Cross-platform applications
+- **Databases**: PostgreSQL, MySQL, SQLite, Redis
+- **Cloud & DevOps**: Docker, Kubernetes, CI/CD pipelines, AWS, GCP
+- **Other Technologies**: REST APIs, JSON/XML, WebSockets, Cloud-based architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience:
+- Specialized in **C++** and **Qt development** for creating **cross-platform desktop applications**.
+- Experienced with **multi-threaded applications** for **high-performance solutions**.
+- Built **robust backend services** and **full-stack applications** with technologies like **C#**, **Node.js**, and **Python**.
+- Worked on optimizing applications with **PostgreSQL**, **MySQL**, and **Redis** for efficient data storage and retrieval.
+
+### Current Focus:
+- Enhancing **cross-platform desktop application** development with **Qt** and **C++**.
+- Focusing on **cloud-native solutions** using **Docker**, **Kubernetes**, and **AWS/GCP**.
+
+With my strong background in **application development** and **full-stack solutions**, I'm committed to delivering clean, efficient, and scalable systems.
+
+Thanks for checking out my GitHub! Feel free to reach out if you’d like to collaborate or discuss exciting projects. 😊
